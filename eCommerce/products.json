@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "fdfafcc27b5c67ef6f968ee0",
+    "title": "Essence Mascara Lash Princess",
+    "slug": "essence-mascara-lash-princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 9.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 7.17,
+    "rating": 4.94,
+    "stock": 5,
+    "tags": [
+      "beauty",
+      "mascara"
+    ],
+    "sku": "RCH45Q1A",
+    "brand": "Essence",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "Low Stock",
+    "reviews": [
+      "8eddeeba8f39d5d631a8697c",
+      "f63ed5d3386ba0734d6562de",
+      "fab82b5b8ff562d4e19a8ba8"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 24,
+    "createdAt": "2024-05-23T08:56:21.618Z",
+    "updatedAt": "2024-05-23T08:56:21.618Z",
+    "barcode": "9164035109868",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "745ca1067be067979ad08ba5",
+      "cba126764303c5fef22c288b",
+      "70a6b3bb60b1e50b182f68b3"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png",
+        "alt": "Essence Mascara Lash Princess"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+        "alt": "Essence Mascara Lash Princess",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "3661284d14ffb6f2dd8cf210",
+    "title": "Eyeshadow Palette with Mirror",
+    "slug": "eyeshadow-palette-with-mirror",
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 19.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 5.5,
+    "rating": 3.28,
+    "stock": 44,
+    "tags": [
+      "beauty",
+      "eyeshadow"
+    ],
+    "sku": "MVCFH27F",
+    "brand": "Glamour Beauty",
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "e329b5281e01aa4ae3f3b492",
+      "bc40146a339d643dfd6e37ac",
+      "774d6e6342755013c97330b3"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 32,
+    "createdAt": "2024-05-23T08:56:21.618Z",
+    "updatedAt": "2024-05-23T08:56:21.618Z",
+    "barcode": "2817839095220",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "8b2df3cc44004b9ee51eea29",
+      "5bdc23766de06d47f77d80f0",
+      "887b58bdca1d18962b5f1ce8"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png",
+        "alt": "Eyeshadow Palette with Mirror"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
+        "alt": "Eyeshadow Palette with Mirror",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "4dab45c7d9f6f93ec5f6be2b",
+    "title": "Powder Canister",
+    "slug": "powder-canister",
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 14.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 18.14,
+    "rating": 3.82,
+    "stock": 59,
+    "tags": [
+      "beauty",
+      "face powder"
+    ],
+    "sku": "9EN8WLT2",
+    "brand": "Velvet Touch",
+    "warrantyInformation": "2 year warranty",
+    "shippingInformation": "Ships in 1-2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "ef0ab12f31065cb5776ee7c6",
+      "39b1f38260ec987eb24f4119",
+      "53f9384c577279f999a13453"
+    ],
+    "returnPolicy": "60 days return policy",
+    "minimumOrderQuantity": 25,
+    "createdAt": "2024-05-23T08:56:21.618Z",
+    "updatedAt": "2024-05-23T08:56:21.618Z",
+    "barcode": "0516267971277",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "4959313402f0546e5fbc53e2",
+      "89e272600c40feab5941a983",
+      "5f2afbf7c2e1fd6310e8e3ec"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png",
+        "alt": "Powder Canister"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png",
+        "alt": "Powder Canister",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "23ed51c13add9249fc11c68c",
+    "title": "Red Lipstick",
+    "slug": "red-lipstick",
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 12.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 19.03,
+    "rating": 2.51,
+    "stock": 68,
+    "tags": [
+      "beauty",
+      "lipstick"
+    ],
+    "sku": "O5IF1NTA",
+    "brand": "Chic Cosmetics",
+    "warrantyInformation": "Lifetime warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "ed34985049ef084b2f47122d",
+      "ba698a68516ae9e451897a4b",
+      "c843584b3069561c965f738b"
+    ],
+    "returnPolicy": "90 days return policy",
+    "minimumOrderQuantity": 6,
+    "createdAt": "2024-05-23T08:56:21.619Z",
+    "updatedAt": "2024-05-23T08:56:21.619Z",
+    "barcode": "9444582199406",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "acfb08f8b100a542333995f0",
+      "ab27c2d62340a80dc014ec0e",
+      "61bb74622965bfa7f68b0b8a"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png",
+        "alt": "Red Lipstick"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png",
+        "alt": "Red Lipstick",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "6025dbacf8385bfabff715c4",
+    "title": "Red Nail Polish",
+    "slug": "red-nail-polish",
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 8.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 2.46,
+    "rating": 3.91,
+    "stock": 71,
+    "tags": [
+      "beauty",
+      "nail polish"
+    ],
+    "sku": "YUIIIP4W",
+    "brand": "Nail Couture",
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "b61e8d3a258203379764fe41",
+      "04c770472924bb73f75ba9a6",
+      "1cb49b0c106ac9b4a2407355"
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 46,
+    "createdAt": "2024-05-23T08:56:21.619Z",
+    "updatedAt": "2024-05-23T08:56:21.619Z",
+    "barcode": "3212847902461",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "1d9c54cae151d99b57b661c9",
+      "a368069f5b57f1388c1e9d1d",
+      "6f966ddc46f58ca071b4b968"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png",
+        "alt": "Red Nail Polish"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png",
+        "alt": "Red Nail Polish",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "2df5bdaaa83ab16e68cb6684",
+    "title": "Calvin Klein CK One",
+    "slug": "calvin-klein-ck-one",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 49.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 0.32,
+    "rating": 4.85,
+    "stock": 17,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "sku": "DZM2JQZE",
+    "brand": "Calvin Klein",
+    "warrantyInformation": "5 year warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "fabccd8442d1f13e8e0ae8da",
+      "20ed2c8f9995f636bc2c4430",
+      "72b69ce052d30549ffce18a2"
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 20,
+    "createdAt": "2024-05-23T08:56:21.619Z",
+    "updatedAt": "2024-05-23T08:56:21.619Z",
+    "barcode": "2210136215089",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "3c4ec32a2a5284a7fbbca0b4",
+      "0ecfb7e37705b43263ceadb3",
+      "c12e91991e58eb55d23e1703"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png",
+        "alt": "Calvin Klein CK One"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
+        "alt": "Calvin Klein CK One"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png",
+        "alt": "Calvin Klein CK One"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png",
+        "alt": "Calvin Klein CK One",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "d4061aacde3e69d5a67e22c1",
+    "title": "Chanel Coco Noir Eau De",
+    "slug": "chanel-coco-noir-eau-de",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 129.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 18.64,
+    "rating": 2.76,
+    "stock": 41,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "sku": "K71HBCGS",
+    "brand": "Chanel",
+    "warrantyInformation": "1 week warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "d302d3dc58b09659d5047758",
+      "a941638dfcfbd2161cf2bbe4",
+      "8ae09187f78c6371d5376981"
+    ],
+    "returnPolicy": "60 days return policy",
+    "minimumOrderQuantity": 5,
+    "createdAt": "2024-05-23T08:56:21.619Z",
+    "updatedAt": "2024-05-23T08:56:21.619Z",
+    "barcode": "1435582999795",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "5e77407f83e65f24ddab1937",
+      "8a21021daf893c6b45b53b9c",
+      "fb17d1eb743130f6f77e9869"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png",
+        "alt": "Chanel Coco Noir Eau De"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
+        "alt": "Chanel Coco Noir Eau De"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png",
+        "alt": "Chanel Coco Noir Eau De"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png",
+        "alt": "Chanel Coco Noir Eau De",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "d79afe731c890c344d84a1ed",
+    "title": "Dior J'adore",
+    "slug": "dior-j-adore",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 89.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 17.44,
+    "rating": 3.31,
+    "stock": 91,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "sku": "E70NB03B",
+    "brand": "Dior",
+    "warrantyInformation": "Lifetime warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "0c85704e1cadc4991f049b24",
+      "c1088e0b3eecf20b1995c6e1",
+      "a4c59dc3f8bde11776d5ba43"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 8,
+    "createdAt": "2024-05-23T08:56:21.619Z",
+    "updatedAt": "2024-05-23T08:56:21.619Z",
+    "barcode": "0887083199279",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "b90884667ccc372144fed980",
+      "a3976626ee250f44e6c99360",
+      "738b5cee378228289b934032"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png",
+        "alt": "Dior J'adore"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
+        "alt": "Dior J'adore"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png",
+        "alt": "Dior J'adore"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png",
+        "alt": "Dior J'adore",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "e0fd370319de64e2cfde1427",
+    "title": "Dolce Shine Eau de",
+    "slug": "dolce-shine-eau-de",
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 69.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 11.47,
+    "rating": 2.68,
+    "stock": 3,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "sku": "1NBFK980",
+    "brand": "Dolce & Gabbana",
+    "warrantyInformation": "5 year warranty",
+    "shippingInformation": "Ships in 1-2 business days",
+    "availabilityStatus": "Low Stock",
+    "reviews": [
+      "bafc90c83d4109781ef543f9",
+      "23aad24f1e62d8c58fe87ee4",
+      "28c02e4bd5fd2ed09e1b456f"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 9,
+    "createdAt": "2024-05-23T08:56:21.619Z",
+    "updatedAt": "2024-05-23T08:56:21.619Z",
+    "barcode": "1939383392674",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "935adfde920acc826240d6fd",
+      "bbbf7e2ca93f586df73a3655",
+      "ae1d563d592649800d73fe68"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png",
+        "alt": "Dolce Shine Eau de"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
+        "alt": "Dolce Shine Eau de"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png",
+        "alt": "Dolce Shine Eau de"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png",
+        "alt": "Dolce Shine Eau de",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "c6ef7b6c5537db2691131e59",
+    "title": "Gucci Bloom Eau de",
+    "slug": "gucci-bloom-eau-de",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 79.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 8.9,
+    "rating": 2.69,
+    "stock": 93,
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ],
+    "sku": "FFKZ6HOF",
+    "brand": "Gucci",
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "ade9049e26e546bd9ca2ca19",
+      "06e73b1c72e58950ba71ab13",
+      "1f2da0ed19a166609c52744f"
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 10,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "8232190382069",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "a640aaa105f8cb20bbd5b88f",
+      "632e1e457d57fceca756b4bc",
+      "c158f0c45a24eded05364a3e"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/1.png",
+        "alt": "Gucci Bloom Eau de"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
+        "alt": "Gucci Bloom Eau de"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png",
+        "alt": "Gucci Bloom Eau de"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png",
+        "alt": "Gucci Bloom Eau de",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "4c10d8972d51a2cb8ec15414",
+    "title": "Annibale Colombo Bed",
+    "slug": "annibale-colombo-bed",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 1899.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 0.29,
+    "rating": 4.14,
+    "stock": 47,
+    "tags": [
+      "furniture",
+      "beds"
+    ],
+    "sku": "4KMDTZWF",
+    "brand": "Annibale Colombo",
+    "warrantyInformation": "2 year warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "95dc3c79d1af86ed40cf8338",
+      "bee5b28845046b02538660f8",
+      "2addc9a839eaa22db12f66f3"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 1,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "7113807059215",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "f502ba3a081b236071c179df",
+      "62c276b40f5dc38c5aec694b",
+      "71db059f86667405ce2be0cd"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/1.png",
+        "alt": "Annibale Colombo Bed"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
+        "alt": "Annibale Colombo Bed"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png",
+        "alt": "Annibale Colombo Bed"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png",
+        "alt": "Annibale Colombo Bed",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "bd39fbc39b838b5eca9eb61f",
+    "title": "Annibale Colombo Sofa",
+    "slug": "annibale-colombo-sofa",
+    "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 2499.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 18.54,
+    "rating": 3.08,
+    "stock": 16,
+    "tags": [
+      "furniture",
+      "sofas"
+    ],
+    "sku": "LUU95CQP",
+    "brand": "Annibale Colombo",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "b980a3f6dad4ee0be8b79d38",
+      "74ead3f129cd76db4544c78f",
+      "8a0d08c8adbe563f68f01b6d"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 1,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "0426785817074",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "cabc22f0dacf304663060068",
+      "66e7d2fb2f0047d9c89c75f9",
+      "b86a77844c5f7de5e421f987"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/1.png",
+        "alt": "Annibale Colombo Sofa"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
+        "alt": "Annibale Colombo Sofa"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png",
+        "alt": "Annibale Colombo Sofa"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png",
+        "alt": "Annibale Colombo Sofa",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "548b5e4fe1f9c65a0ae7bead",
+    "title": "Bedside Table African Cherry",
+    "slug": "bedside-table-african-cherry",
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 299.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 9.58,
+    "rating": 4.48,
+    "stock": 16,
+    "tags": [
+      "furniture",
+      "bedside tables"
+    ],
+    "sku": "OWPLTZYX",
+    "brand": "Furniture Co.",
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 1-2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "62ef0e3a1e1ee444b94077da",
+      "b59013b76f92f7cb0fa807a7",
+      "e16f75cc2967df19aea5b37d"
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 5,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "2913244159666",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "b3b145f851631765c757ffeb",
+      "f29ff326bbbccc00ee91a57e",
+      "bbecfbb349e5350ba20a3733"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/1.png",
+        "alt": "Bedside Table African Cherry"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
+        "alt": "Bedside Table African Cherry"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png",
+        "alt": "Bedside Table African Cherry"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png",
+        "alt": "Bedside Table African Cherry",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "11dc95ade44792bae193693f",
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "slug": "knoll-saarinen-executive-conference-chair",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 499.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 15.23,
+    "rating": 4.11,
+    "stock": 47,
+    "tags": [
+      "furniture",
+      "office chairs"
+    ],
+    "sku": "RKHVJ4FE",
+    "brand": "Knoll",
+    "warrantyInformation": "Lifetime warranty",
+    "shippingInformation": "Ships in 3-5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "6dc766e270fed75e829576c9",
+      "981aa69a21744799712bc2a0",
+      "9f72dc31271ed7d6a33407c9"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 5,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "0726316339746",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "fe35ef3b8dc7947539da67b7",
+      "f27d77dfd43017575707c0e9",
+      "0cf499bd33f0ad5d29075443"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/1.png",
+        "alt": "Knoll Saarinen Executive Conference Chair"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
+        "alt": "Knoll Saarinen Executive Conference Chair"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png",
+        "alt": "Knoll Saarinen Executive Conference Chair"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png",
+        "alt": "Knoll Saarinen Executive Conference Chair",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "212b74c8c10d199a0b332c92",
+    "title": "Wooden Bathroom Sink With Mirror",
+    "slug": "wooden-bathroom-sink-with-mirror",
+    "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 799.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 11.22,
+    "rating": 3.26,
+    "stock": 95,
+    "tags": [
+      "furniture",
+      "bathroom"
+    ],
+    "sku": "7OLTIEVO",
+    "brand": "Bath Trends",
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 3-5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "97d395f6f400832301e4128c",
+      "16231b7b9a2af8807fd7e7e3",
+      "db9825dc788a28d241293856"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 1,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "7839797529453",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "73402627815e9bd2e34583df",
+      "6d2dad0148468f198ff892c0",
+      "502c1ffec2f5d0a028c91a85"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/1.png",
+        "alt": "Wooden Bathroom Sink With Mirror"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
+        "alt": "Wooden Bathroom Sink With Mirror"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png",
+        "alt": "Wooden Bathroom Sink With Mirror"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png",
+        "alt": "Wooden Bathroom Sink With Mirror",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "344a9b76f507c0fec7bb22e9",
+    "title": "Apple",
+    "slug": "apple",
+    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 1.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 1.97,
+    "rating": 2.96,
+    "stock": 9,
+    "tags": [
+      "fruits"
+    ],
+    "sku": "QTROUV79",
+    "warrantyInformation": "2 year warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "7bfd765ba1e4695c4c077c88",
+      "101d583cf5ae2543b12be7e9",
+      "304def903601d9dbdd5c6824"
+    ],
+    "returnPolicy": "60 days return policy",
+    "minimumOrderQuantity": 44,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "2517819903837",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "7cc96a80c1832f51c73eb065",
+      "8d8dbaca7baa4abb418c31a7",
+      "dd9377ca6311c8a0b8d452f8"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png",
+        "alt": "Apple"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png",
+        "alt": "Apple",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "7380ef47cac40b501307132e",
+    "title": "Beef Steak",
+    "slug": "beef-steak",
+    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 12.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 17.99,
+    "rating": 2.83,
+    "stock": 96,
+    "tags": [
+      "meat"
+    ],
+    "sku": "BWWA2MSO",
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "69d3c7b2afe40f83b9926f34",
+      "1c8e0194d88cbf3146585e0c",
+      "d692d3c88ef350928a5e4713"
+    ],
+    "returnPolicy": "90 days return policy",
+    "minimumOrderQuantity": 21,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "8335515097879",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "b0d77d19a5c08bd4936aea9d",
+      "1f8fc4ee1b79c169238240b7",
+      "39a202bf2c348c8f2c33091b"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png",
+        "alt": "Beef Steak"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png",
+        "alt": "Beef Steak",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "33c3c9bc9831a1aea29c1d5e",
+    "title": "Cat Food",
+    "slug": "cat-food",
+    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 8.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 9.57,
+    "rating": 2.88,
+    "stock": 13,
+    "tags": [
+      "pet supplies",
+      "cat food"
+    ],
+    "sku": "C3F8QN6O",
+    "warrantyInformation": "3 months warranty",
+    "shippingInformation": "Ships in 1-2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "e3222b0314db8674d176b1cf",
+      "ec600e7a7d7c58ca4e37d2f4",
+      "673baf01f6008be1885be7bb"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 48,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "5503491330693",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "863b728b6b1b84c640333dc5",
+      "b3a4407091e9adf6dc5a0234",
+      "7d656186edf54577a1c52e50"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png",
+        "alt": "Cat Food"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png",
+        "alt": "Cat Food",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "8260d71c950e5a2378bfac95",
+    "title": "Chicken Meat",
+    "slug": "chicken-meat",
+    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 9.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 10.46,
+    "rating": 4.61,
+    "stock": 69,
+    "tags": [
+      "meat"
+    ],
+    "sku": "G5YEHW7B",
+    "warrantyInformation": "Lifetime warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "a05d77e6415e95aa1d9c40e1",
+      "ff65299684e383aa0c271c07",
+      "b16fd54184de45202ecd15fe"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 46,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "0966223559510",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "0380e100c09940f3c392b683",
+      "3ac410308b602b7a03c001b9",
+      "510ba02e80f1fc5fe111917a"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png",
+        "alt": "Chicken Meat"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png",
+        "alt": "Chicken Meat"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png",
+        "alt": "Chicken Meat",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "8277ba6206b0a363acd7bdda",
+    "title": "Cooking Oil",
+    "slug": "cooking-oil",
+    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 4.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 18.89,
+    "rating": 4.01,
+    "stock": 22,
+    "tags": [
+      "cooking essentials"
+    ],
+    "sku": "Q6ZP1UY8",
+    "warrantyInformation": "Lifetime warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "559846398f28d9dec730bddf",
+      "a06c93597b31d05eb2e1d0d8",
+      "755eebb56c29c41d339df4c8"
+    ],
+    "returnPolicy": "60 days return policy",
+    "minimumOrderQuantity": 2,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "6707669443381",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "50bb27c7a01119c0c53c1650",
+      "f65c2ca6f1b9b790311ad9c1",
+      "a451e0be08db952db85e6350"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png",
+        "alt": "Cooking Oil"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png",
+        "alt": "Cooking Oil",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "2e0a536a0ea3a1a92bcd7cd9",
+    "title": "Cucumber",
+    "slug": "cucumber",
+    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 1.49,
+    "discountPrice": 9.24,
+    "discountPercentage": 11.44,
+    "rating": 4.71,
+    "stock": 22,
+    "tags": [
+      "vegetables"
+    ],
+    "sku": "6KGF2K6Z",
+    "warrantyInformation": "5 year warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "b4069d723edc6d454902d2e0",
+      "5ea37dbbbd96b8c7bc71559d",
+      "2736792cd0efe36c168ba35f"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 7,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "2597004869708",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "c01efc172393ec3cd39f5bcb",
+      "0d66b666667924de05afd70d",
+      "7d65c4ccd4e6417a475db89f"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/1.png",
+        "alt": "Cucumber"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Cucumber/thumbnail.png",
+        "alt": "Cucumber",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "ff86e1b9ab2ed5460bbd704e",
+    "title": "Dog Food",
+    "slug": "dog-food",
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 10.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 18.15,
+    "rating": 2.74,
+    "stock": 40,
+    "tags": [
+      "pet supplies",
+      "dog food"
+    ],
+    "sku": "A6QRCH37",
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "f3414204e83d79164d908561",
+      "e936daa8fec28dbea1caefe2",
+      "7520b587cb943d78e3bf8203"
+    ],
+    "returnPolicy": "90 days return policy",
+    "minimumOrderQuantity": 29,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "7957222289508",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "48210ced2729698b77bca6d6",
+      "4da1fcb4b1672ea1d9542ffa",
+      "12c4416b3b33fde139302db7"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/1.png",
+        "alt": "Dog Food"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Dog%20Food/thumbnail.png",
+        "alt": "Dog Food",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "e7c654aa9a5c2c5d0c7f49c2",
+    "title": "Eggs",
+    "slug": "eggs",
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 2.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 5.8,
+    "rating": 4.46,
+    "stock": 10,
+    "tags": [
+      "dairy"
+    ],
+    "sku": "YA617RI7",
+    "warrantyInformation": "3 year warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "1d11ac6245c18a8ac730441e",
+      "6a097e8e2d6b6b266c3ac184",
+      "5cff98839054564cd23a33b4"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 43,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "7095702028776",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "635694c56fcbce28459a43cf",
+      "5e405e7567a1ddc2b2348397",
+      "252ae5bfa0b0aaa39d31d94e"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Eggs/1.png",
+        "alt": "Eggs"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Eggs/thumbnail.png",
+        "alt": "Eggs",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "4a7ba769f0402fc61b865acb",
+    "title": "Fish Steak",
+    "slug": "fish-steak",
+    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 14.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 7,
+    "rating": 4.83,
+    "stock": 99,
+    "tags": [
+      "seafood"
+    ],
+    "sku": "XNIH1MTA",
+    "warrantyInformation": "1 year warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "6f061f1eddfcd135a7162e80",
+      "53d47c8a59c557604dd75546",
+      "20464cac8da178faa35e9c86"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 49,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "4250692197342",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "635daee9bc249d0bd837204b",
+      "9f649f3c4a272fd4830195f3",
+      "b7c290713b95d0c055c58ef2"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/1.png",
+        "alt": "Fish Steak"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Fish%20Steak/thumbnail.png",
+        "alt": "Fish Steak",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "e6f39b5d7b11f526cbde3105",
+    "title": "Green Bell Pepper",
+    "slug": "green-bell-pepper",
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 1.29,
+    "discountPrice": 9.24,
+    "discountPercentage": 15.5,
+    "rating": 4.28,
+    "stock": 89,
+    "tags": [
+      "vegetables"
+    ],
+    "sku": "HU7S7VQ0",
+    "warrantyInformation": "5 year warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "23fbd8529c532c432e033f0f",
+      "6b21f661a0abf4da00b0a9a3",
+      "0820621fbe0a48519d800876"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 1,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "7583442707568",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "55b0b65792a86b297fb6314c",
+      "fe717b97f551e9525edee90d",
+      "9c799b4c35abdfb433045113"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/1.png",
+        "alt": "Green Bell Pepper"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Bell%20Pepper/thumbnail.png",
+        "alt": "Green Bell Pepper",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "8f2b5decfc2796d3c0678269",
+    "title": "Green Chili Pepper",
+    "slug": "green-chili-pepper",
+    "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 0.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 18.51,
+    "rating": 4.43,
+    "stock": 8,
+    "tags": [
+      "vegetables"
+    ],
+    "sku": "Y4RM3JCB",
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships in 1-2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "b9619ddc10abb755d2269751",
+      "a536fc33ad98f5fdcbd7e86d",
+      "a41fe17eb63ac24c5b6930f5"
+    ],
+    "returnPolicy": "30 days return policy",
+    "minimumOrderQuantity": 43,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "8400326844874",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "c39f6d521f1e4323d1ec2d7b",
+      "5bea966488ffdcbaa3a07031",
+      "7ba7cebcb8eea5f1974e66ee"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/1.png",
+        "alt": "Green Chili Pepper"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Green%20Chili%20Pepper/thumbnail.png",
+        "alt": "Green Chili Pepper",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "2383fed880ed2db0f0f99c63",
+    "title": "Honey Jar",
+    "slug": "honey-jar",
+    "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 6.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 1.91,
+    "rating": 3.5,
+    "stock": 25,
+    "tags": [
+      "condiments"
+    ],
+    "sku": "BTBNIIOU",
+    "warrantyInformation": "2 year warranty",
+    "shippingInformation": "Ships overnight",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "ce09fb07d51a4a094a09e99e",
+      "8fd051dc4b334be54b798580",
+      "ffbe99bca0b30a07a5808294"
+    ],
+    "returnPolicy": "90 days return policy",
+    "minimumOrderQuantity": 1,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "0668665656044",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "03f8c5c0f0e7ee532501c43b",
+      "e21f9b582fda741b7810ee4f",
+      "5ba70aa1bfd22b098a641713"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/1.png",
+        "alt": "Honey Jar"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Honey%20Jar/thumbnail.png",
+        "alt": "Honey Jar",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "2fafbfc928496f19025c2723",
+    "title": "Ice Cream",
+    "slug": "ice-cream",
+    "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 5.49,
+    "discountPrice": 9.24,
+    "discountPercentage": 7.58,
+    "rating": 3.77,
+    "stock": 76,
+    "tags": [
+      "desserts"
+    ],
+    "sku": "VEZMU1EQ",
+    "warrantyInformation": "2 year warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "8e12ac29625508f1404b1251",
+      "75c6d9c1d5cdfc8387faddc0",
+      "fdb47749825d29b5585d6bfb"
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 19,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "9603960319256",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "80990898e3ddd6a7ee5e7bfe",
+      "5542328281aa0903295454a8",
+      "c199de1420bc1989be65a442"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/1.png",
+        "alt": "Ice Cream"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/2.png",
+        "alt": "Ice Cream"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/3.png",
+        "alt": "Ice Cream"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/4.png",
+        "alt": "Ice Cream"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png",
+        "alt": "Ice Cream",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "bbb1b64542e43d90777941d5",
+    "title": "Juice",
+    "slug": "juice",
+    "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 3.99,
+    "discountPrice": 9.24,
+    "discountPercentage": 5.45,
+    "rating": 3.41,
+    "stock": 99,
+    "tags": [
+      "beverages"
+    ],
+    "sku": "M2K19S06",
+    "warrantyInformation": "1 week warranty",
+    "shippingInformation": "Ships in 1-2 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      "9d95d16eaf712cf9170406c9",
+      "90cef55fb7143d56ad3135b9",
+      "20ee2d8609ae6f14653c44aa"
+    ],
+    "returnPolicy": "90 days return policy",
+    "minimumOrderQuantity": 26,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "8546824122355",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "1f542be1ad53306098b24f93",
+      "8e769f72bae3c09f257a6203",
+      "50dd93c991cb3093a3889e06"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Juice/1.png",
+        "alt": "Juice"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Juice/thumbnail.png",
+        "alt": "Juice",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "8ee4740a08bd33816ec374b3",
+    "title": "Kiwi",
+    "slug": "kiwi",
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 2.49,
+    "discountPrice": 9.24,
+    "discountPercentage": 10.32,
+    "rating": 4.37,
+    "stock": 1,
+    "tags": [
+      "fruits"
+    ],
+    "sku": "0X3NORB9",
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 3-5 business days",
+    "availabilityStatus": "Low Stock",
+    "reviews": [
+      "c8cc45d7980ac2c4ec87f78e",
+      "1e7a8d3736e08af58e0b261b",
+      "c6b4c0cdaabf39b2e498bba6"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 8,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "3325493172934",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "47d17a157d9ddf213d6a10f0",
+      "0ff1dcf84e925fb233f16708",
+      "14c1b4206b66163a9b7ab82f"
+    ],
+    "images": [
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/1.png",
+        "alt": "Kiwi"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png",
+        "alt": "Kiwi",
+        "thumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "cd9c80ff8dfe922352c62229",
+    "title": "Kiwi",
+    "slug": "kiwi",
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "category": "3951a126e04507e57dca5b4b",
+    "price": 2.49,
+    "discountPrice": 9.24,
+    "discountPercentage": 10.32,
+    "rating": 4.37,
+    "stock": 1,
+    "tags": [
+      "fruits"
+    ],
+    "sku": "0X3NORB9",
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 3-5 business days",
+    "availabilityStatus": "Out of Stock",
+    "reviews": [
+      "ef3fa5617044cb35d50a29aa",
+      "401545be30ce1dd0ad9ecfad",
+      "52fe43eebb6f7ad46991f2c2"
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 8,
+    "createdAt": "2024-05-23T08:56:21.620Z",
+    "updatedAt": "2024-05-23T08:56:21.620Z",
+    "barcode": "3325493172934",
+    "qrCode": "https://assets.dummyjson.com/public/qr-code.png",
+    "faqs": [
+      "71ff035e3addbeec10715195",
+      "0297a7bc3316942d4ae20b3f",
+      "32b9e2264a91901821c6c617"
+    ],
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c25lYWtlcnxlbnwwfHwwfHw%3D",
+        "alt": "Kiwi"
+      },
+      {
+        "url": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c25lYWtlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "alt": "Kiwi"
+      },
+      {
+        "url": "https://cdn.dummyjson.com/products/images/groceries/Kiwi/thumbnail.png",
+        "alt": "Kiwi",
+        "thumbnail": true
+      }
+    ]
+  }
+]
